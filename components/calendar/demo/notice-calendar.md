@@ -95,7 +95,7 @@ ReactDOM.render(
 }
 .notes-month {
   text-align: center;
-  font-size: 28px;
+  font-size: 25px;
 }
 .notes-month section {
   font-size: 28px;
